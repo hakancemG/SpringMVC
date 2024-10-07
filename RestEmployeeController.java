@@ -1,5 +1,4 @@
 package com.hakancem.starter.controller;
-
 import com.hakancem.starter.model.Employee;
 import com.hakancem.starter.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
